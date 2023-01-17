@@ -1,9 +1,9 @@
 ### Olá! 👋
 
-Prazer, me chamo Ana Clara Poubel.
+#### Prazer, me chamo Ana Clara Poubel.
 
-- Sou formada em design e administração e exerço ambas funções na marca Pandi (www.pandi.com.br)
-- Atualmente estou me aventurando no universo de desenvolvimento fullstack!
+>- Sou formada em design e administração e exerço ambas funções na marca Pandi (www.pandi.com.br) 
+>- Atualmente estou me aventurando no universo de desenvolvimento fullstack!
 
 
 <!--
